@@ -10,3 +10,33 @@ Python was used to sort the data and create csv files for the desired timeframe 
 
 Images of the presentation
 
+Link to the Tableau page <a href="https://public.tableau.com/profile/troy.youngblood#!/vizhome/Final_Bike_Analytics_Feb_ty/Covid_Impact?publish=yes">Citi Bike Usage NYC Compariosn Fed 2019, 2020 and 2021</a>. 
+
+Link to the code
+Python: [JavaScript Code](Leaflet-Step-1/static/js/logic.js)<br>
+CSS code: [CSS code](Leaflet-Step-1/static/css/style.css)<br>
+
+Sample images
+
+Example map view of US in Street Map view <br>
+<img src="Images/page_1.PNG" width = "450"><br>
+<br>
+Example map view of US in Street Map view <br>
+<img src="Images/page_2.PNG" width = "450"><br>
+<br>
+Example map view of US in Street Map view <br>
+<img src="Images/page_3.PNG" width = "450"><br>
+<br>
+Example map view of US in Street Map view <br>
+<img src="Images/page_4.PNG" width = "450"><br>
+<br>
+Example map view of US in Street Map view <br>
+<img src="Images/page_5.PNG" width = "450"><br>
+<br>
+Example map view of US in Street Map view <br>
+<img src="Images/page_6.PNG" width = "450"><br>
+<br>
+Example map view of US in Street Map view <br>
+<img src="Images/page_7.PNG" width = "450"><br>
+<br>
+
