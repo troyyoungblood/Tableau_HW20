@@ -13,30 +13,30 @@ Images of the presentation
 Link to the Tableau page <a href="https://public.tableau.com/profile/troy.youngblood#!/vizhome/Final_Bike_Analytics_Feb_ty/Covid_Impact?publish=yes">Citi Bike Usage NYC Compariosn Fed 2019, 2020 and 2021</a>. 
 
 Link to the code
-Python: [JavaScript Code](Leaflet-Step-1/static/js/logic.js)<br>
-CSS code: [CSS code](Leaflet-Step-1/static/css/style.css)<br>
+Python: [Python](Resources/final_HW20.ipynb)<br>
 
-Sample images
 
-Example map view of US in Street Map view <br>
+Images from page
+
+Overall Station View <br>
 <img src="Images/page_1.PNG" width = "450"><br>
 <br>
-Example map view of US in Street Map view <br>
+Comparion of Station usage over target years<br>
 <img src="Images/page_2.PNG" width = "450"><br>
 <br>
-Example map view of US in Street Map view <br>
+2019 Review <br>
 <img src="Images/page_3.PNG" width = "450"><br>
 <br>
-Example map view of US in Street Map view <br>
+2020 Review <br>
 <img src="Images/page_4.PNG" width = "450"><br>
 <br>
-Example map view of US in Street Map view <br>
+2021 Review<br>
 <img src="Images/page_5.PNG" width = "450"><br>
 <br>
-Example map view of US in Street Map view <br>
+202 vs 2021 Gender Usage review <br>
 <img src="Images/page_6.PNG" width = "450"><br>
 <br>
-Example map view of US in Street Map view <br>
+Conclusion and Actionable Items <br>
 <img src="Images/page_7.PNG" width = "450"><br>
 <br>
 
