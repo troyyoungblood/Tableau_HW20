@@ -10,7 +10,7 @@ Python was used to sort the data and create csv files for the desired timeframe 
 
 Images of the presentation
 
-Link to the Tableau page <a href="https://public.tableau.com/profile/troy.youngblood#!/vizhome/Final_Bike_Analytics_Feb_ty/Covid_Impact?publish=yes">Citi Bike Usage NYC Compariosn Fed 2019, 2020 and 2021</a>. 
+Link to the Tableau page <a href="https://public.tableau.com/profile/troy.youngblood#!/vizhome/Final_Bike_Analytics_Feb_ty/Covid_Impact?publish=yes">Citi Bike Usage NYC Comparison Fed 2019, 2020 and 2021</a>. 
 
 Link to the code
 Python: [Python](Resources/final_HW20.ipynb)<br>
