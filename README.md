@@ -14,7 +14,7 @@ Link to the Tableau page <a href="https://public.tableau.com/profile/troy.youngb
 
 Link to the code and Tableau file <br>
 Python: [Python](Resources/final_HW20.ipynb)<br>
-Python: [Python](Resources/final_HW20.ipynb)<br>
+Python: [Tableau](Resources/final_HW20.ipynb)<br>
 Tableau: [Citi Bike Usage NYC Comparison Feb 2019, 2020 and 2021](Citi Bike Usage NYC Comparison Feb 2019, 2020 and 2021.twbx)<br>
 
 
