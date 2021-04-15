@@ -12,8 +12,9 @@ Images of the presentation
 
 Link to the Tableau page <a href="https://public.tableau.com/profile/troy.youngblood#!/vizhome/Final_Bike_Analytics_Feb_ty/Covid_Impact?publish=yes">Citi Bike Usage NYC Comparison Fed 2019, 2020 and 2021</a>. 
 
-Link to the code
+Link to the code and Tableau file
 Python: [Python](Resources/final_HW20.ipynb)<br>
+Tableau: [Citi Bike Usage NYC Comparison Feb 2019, 2020 and 2021](Citi Bike Usage NYC Comparison Feb 2019, 2020 and 2021.twbx)<br>
 
 
 Images from page
